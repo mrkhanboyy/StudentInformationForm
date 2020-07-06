@@ -1,1 +1,5 @@
-A simple form for registration and to retrieve data from server.
+## A simple Servlet JSP based form
+
+#### what can be done?
+* New Registration.
+* Data retrieval.
